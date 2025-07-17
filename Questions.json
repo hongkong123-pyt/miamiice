@@ -1,0 +1,504 @@
+{
+  "HPL ST": [
+    {
+      "question": "What are examples of psychological stress factors?",
+      "choices": [
+        "Competitive pressure, lack of illumination, lack of exercise, and discrimination.",
+        "Fear of failure, discrimination, lack of illumination, and low humidity.",
+        "Low humidity, lack of information, lack of exercise, and competitive pressure.",
+        "Discrimination, lack of information, competitive pressure, and fear of failure."
+      ],
+      "answer": "Discrimination, lack of information, competitive pressure, and fear of failure."
+    },
+    {
+      "question": "Which of the items in the following list affect the function of vision? 1. High speed 2. Oxygen deficiency 3. Acceleration 4. Toxic influence (alcohol, some medication)",
+      "choices": [
+        "2 and 3 only",
+        "2, 3, 4 only",
+        "1, 2, 4 only",
+        "4 only"
+      ],
+      "answer": "2, 3, 4 only"
+    },
+    {
+      "question": "The following course of action should be taken if gastrointestinal or cardiopulmonary complaints in flight crew occur before take-off: 1. Take the standard medicines and advise the doctor on returning from the flight. 2. Assess your own ability to fly, if necessary with the help of a doctor. 3. If in doubt about fitness to fly - do not fly!. 4. Reduce the cabin temperature, and drink before you are thirsty so as to avoid dehydration. Which of the following lists all the correct statements?",
+      "choices": [
+        "1, 3",
+        "1, 2, 4",
+        "2, 3",
+        "1, 4"
+      ],
+      "answer": "2, 3"
+    },
+    {
+      "question": "Which of the following statements summarises the impact that motivation may have on attention?",
+      "choices": [
+        "It only facilitates attention in extreme cases (risk of death).",
+        "It stimulates attention but may lead to phases of low arousal.",
+        "It increases alertness and attention. v",
+        "It has only a small effect on attention, but it facilitates alertness."
+      ],
+      "answer": "It stimulates attention but may lead to phases of low arousal."
+    },
+    {
+      "question": "Which of the following statements is false?",
+      "choices": [
+        "Stress has essentially negative effects and the human wil operate efficiently with an absence of stress",
+        "The initial effects of carbon monoxide poisoning are not immediately alarming. ",
+        "Human conflict tends to escalate.",
+        "Behaviour is generally the outcome of personality and attitude."
+      ],
+      "answer": "Stress has essentially negative effects and the human wil operate efficiently with an absence of stress"
+    },
+    {
+      "question": "Stress may cause regression which can lead to:",
+      "choices": [
+        "Correct actions being forgotten and substituted for procedures learnt in the past.",
+        "An improvement in performance.",
+        "Experimentation and trying out of new ideas.",
+        "A more efficient use of mental capacity."
+      ],
+      "answer": "Correct actions being forgotten and substituted for procedures learnt in the past."
+    },
+    {
+      "question": "Fatigue and stress:",
+      "choices": [
+        "will increase the tolerance to hypoxia when flying below 15 000 feet.",
+        "Increase the tolerance to hypoxia.",
+        "Lower the tolerance to hypoxia.",
+        "Do not affect hypoxia at all."
+      ],
+      "answer": "Lower the tolerance to hypoxia."
+    },
+    {
+      "question": "A female pilot is 1.7 metres (170 cm) tall and weighs 57 kg. She is:",
+      "choices": [
+        "Underweight",
+        "Normal weight",
+        "Obese",
+        "Overweight"
+      ],
+      "answer": "Normal weight"
+    },
+    {
+      "question": "Which of the following statements correctly describes the equalisation of pressure within the ear during climb and descent?",
+      "choices": [
+        "Pressure differences between the middle ear and the outside environment are eliminated by the Eustachian tube, which connects the ear with the back of the throat.",
+        "Pressure differences between the inner ear and the outside environment are equalised by the Otolith tube, which connects the ear with the nasal passage.",
+        "Pressure differences between the inner ear and the outside environment are eliminated by the Eustachian tube, which connects the ear with the nasal passage.",
+        "Pressure differences between the middle ear and the outside environment are equalised by the Otolith tube, which connects the ear with the sinus cavities."
+      ],
+      "answer": "Pressure differences between the middle ear and the outside environment are eliminated by the Eustachian tube, which connects the ear with the back of the throat."
+    },
+    {
+      "question": "Of the following statements, which apply to coordinated cooperation? 1. It allows for synergy in the actions between the captain and the co-pilot. 2. It represents the simultaneous execution of a single action by the various members of the crew. 3. Communication in this mode has the function of synchronizing actions and distributing responsibilities. 4. Communication must be essentially focused on temporal and cognitive synchronization. The combination of correct statements is:",
+      "choices": [
+        "2, 3",
+        "1, 4",
+        "1, 2, 4",
+        "1, 3"
+      ],
+      "answer": "1, 3"
+    },
+    {
+      "question": "Hepatitis A infection:",
+      "choices": [
+        "Is spread via blood contact.",
+        "Can turn into a permanent infection.",
+        "Is never fatal",
+        "Can be prevented by gammaglobulin or vaccination."
+      ],
+      "answer": "Can be prevented by gammaglobulin or vaccination."
+    },
+    {
+      "question": "Stress is a:",
+      "choices": [
+        "Psychosomatic disease that one can learn to control.",
+        "Response by a person to his/her problems, which automatically leads to a reduction in his/her performance.",
+        "Mechanism by which an individual can respond to situations which he/she may have to face.",
+        "Phenomenon which is specific to modern man."
+      ],
+      "answer": "Mechanism by which an individual can respond to situations which he/she may have to face."
+    },
+    {
+      "question": "Carbon dioxide:",
+      "choices": [
+        "may reach toxic levels in the flight deck due to incomplete fuel combustion.",
+        "is increased in the blood and the brain during hyperventilation",
+        "is approximately 13% of ambient air at flight level 180",
+        "is a normal product of internal respiration"
+      ],
+      "answer": "is a normal product of internal respiration"
+    },
+    {
+      "question": "Which of the following examples is not a procedural error (TEM model)?",
+      "choices": [
+        "Checklists: wrong challenge and response; items missed, checklist performed late or at the wrong time.",
+        "Documentation: wrong weight and balance, fuel information, ATIS, or clearance information recorded, misinterpreted items on paperwork; incorrect logbook entries or incorrect application of MEL procedures.",
+        "Briefings: omitted briefings; items missed.",
+        "Ground navigation: attempting to turn down wrong taxiway or runway, taxi too fast, failure to hold vshort or missed taxiway or runway."
+      ],
+      "answer": "Ground navigation: attempting to turn down wrong taxiway or runway, taxi too fast, failure to hold vshort or missed taxiway or runway."
+    },
+    {
+      "question": "In order to avoiding getting type 2 diabetes, you should: 1. Avoid a carbohydrates only diet 2. Avoid been overweight 3. Avoid a low calorie diet 4. Avoid a protein only diet Which of the following lists all the correct statements?",
+      "choices": [
+        "1, 2, 3, 4",
+        "1, 4",
+        "1, 2",
+        "3, 4"
+      ],
+      "answer": "1, 2"
+    },
+    {
+      "question": "CO (carbon monoxide) present in the smoke of cigarettes can lead to: 1. Reduction of the time of useful consciousness. 2. Hypoxia at a lower altitude than normal. Which combination of statements is correct?",
+      "choices": [
+        "1 and 2 are both correct",
+        "1 is correct, 2 is incorrect",
+        "1 is incorrect, 2 is correct.",
+        "1 and 2 are both incorrect."
+      ],
+      "answer": "1 and 2 are both correct."
+    },
+    {
+      "question": "Which of the following statements correctly summarises the basic functions of the Central Nervous System (CNS), Peripheral Nervous System (PNS) and the Autonomic Nervous System (ANS)?",
+      "choices": [
+        "The CNS connects the brain to the rest of the body. The PNS is responsible for the internal organs. The ANS governs the voluntary control of internal organs.",
+        "The CNS serves as the main processing unit. The PNS integrates the brain with the rest of the body. The ANS is responsible for muscle control of body movements.",
+        "The CNS integrates all parts of the body. The PNS connects the brain via the spinal cord to all internal organs. The ANS is responsible for organ and muscle control.",
+        "The CNS consists of the brain and spinal cord. The PNS provides the connection to the limbs and organs. The ANS governs the involuntary function of internal organs."
+      ],
+      "answer": "The CNS consists of the brain and spinal cord. The PNS provides the connection to the limbs and organs. The ANS governs the involuntary function of internal organs."
+    },
+    {
+      "question": "Which of the following examples is not a procedural error (TEM model)?",
+      "choices": [
+        "Checklists: wrong challenge and response; items missed, checklist performed late or at the wrong time.",
+        "Documentation: wrong weight and balance, fuel information, ATIS, or clearance information recorded, misinterpreted items on paperwork; incorrect logbook entries or incorrect application of MEL procedures ",
+        "Briefings: omitted briefings; items missed.",
+        "Ground navigation: attempting to turn down wrong taxiway or runway, taxi too fast, failure to hold short or missed taxiway or runway."
+      ],
+      "answer": "Ground navigation: attempting to turn down wrong taxiway or runway, taxi too fast, failure to hold short or missed taxiway or runway."
+    },
+    {
+      "question": "Carbon monoxide poisoning in flight:",
+      "choices": [
+        "Is a complication when hyperventilating and requires its own special and individual treatment.",
+        "Presents an extremely dangerous situation as the blood may not be able to carry sufficient amounts of oxygen to vital cells and tissues of the body.",
+        "Is usually harmless because oxygen is more easily attached to haemoglobin than carbon monoxide to a magnitude of 200 times.",
+        "Can be cured by breathing into a plastic bag to retain the carbon monoxide."
+      ],
+      "answer": "Presents an extremely dangerous situation as the blood may not be able to carry sufficient amounts of oxygen to vital cells and tissues of the body."
+    },
+    {
+      "question": "Smoking 3 cigarettes in 1 hour at sea level will:",
+      "choices": [
+        "Prevent serious hyperventilation due to the sedative effect of nicotine.",
+        "Not affect night vision when flying at sea level.",
+        "Increase your G-tolerance considerably by increasing blood pressure.",
+        "Cause a lower degree of hypoxic tolerance."
+      ],
+      "answer": "Cause a lower degree of hypoxic tolerance."
+    },
+    {
+      "question": "Pilots should not fly immediately following giving a donation of blood, because:",
+      "choices": [
+        "Of the risk of infection",
+        "Of loss of Haemoglobin",
+        "There is a risk of bleeding from the needle site during flight.",
+        "There is a slightly increased risk of low blood pressure due to loss of blood volume."
+      ],
+      "answer": "There is a slightly increased risk of low blood pressure due to loss of blood volume."
+    },
+    {
+      "question": "According to the different phases of the General Adaptation Syndrome which of the following statements are correct: 1. During the alarm phase stress hormones (i.e. adrenalin) will cause a massive release of glucose into the blood, an acceleration of pulse and blood pressure as well as an increase in the rate and depth of breathing. 2. During the resistance phase the parasympathetic system uses a different type of hormone (cortisol) assisting the conversion of fat into sugar. 3. During the exhaustion phase the body has to be given time to eliminate the waste products which have been generated excessively during the two preceding phases.",
+      "choices": [
+        "1",
+        "1, 2, 3",
+        "1, 2",
+        "2, 3"
+      ],
+      "answer": "1, 2, 3"
+    },
+    {
+      "question": "The normal respiratory rate of an adult at rest is how many breaths per minute?",
+      "choices": [
+        "40 to 45",
+        "10 to 18",
+        "20 to 25",
+        "5 to 8"
+      ],
+      "answer": "10 to 18"
+    },
+    {
+      "question": "The first cockpit tool that tends to suffer as a result of stress is:",
+      "choices": [
+        "Cockpit cohesion",
+        "Cockpit synergy",
+        "Cockpit communications",
+        "Cockpit entity"
+      ],
+      "answer": "Cockpit communications"
+    },
+    {
+      "question": "Which of the following statements are correct with regard to the design of a checklist? 1. The longer a checklist, the more it must be subdivided into logical parts. 2. The trickiest points must be placed in the middle of the checklist. 3. Checklists must be designed in such a way that they can be lumped together with other tasks. 4. Whenever possible, a panel scan sequence should be applied. 5. Use should be made of upper case / bold / italics / colour with care.",
+      "choices": [
+        "1, 2, 3",
+        "1, 2, 5",
+        "1, 4, 5",
+        "1, 3, 5"
+      ],
+      "answer": "1, 4, 5"
+    },
+    {
+      "question": "The consumption of medicines or other substances may have consequences on qualification to fly for the following reasons: 1. The disease requiring a treatment may be cause for disqualification. 2. Flight conditions may modify the reactions of the body to a treatment. 3. Drugs may cause adverse side effects impairing flight safety. 4. The effects of medicine do not necessarily immediately disappear when the treatment is stopped. Which combination of statements is correct?",
+      "choices": [
+        "1, 2, 3, 4",
+        "1, 3, 4",
+        "1, 2, 3",
+        "1, 2"
+      ],
+      "answer": "1, 2, 3, 4"
+    },
+    {
+      "question": "Blood-pressure depends on: 1. The cardiac output 2. The resistance of the capillaries. Which of the following ists all the correct answers?",
+      "choices": [
+        "1 and 2 are incorrect",
+        "1 is correct 2 is incorrect",
+        "1 is incorrect, 2 is correct",
+        "1 and 2 are correct"
+      ],
+      "answer": "1 and 2 are correct"
+    },
+    {
+      "question": "How should a pilot react, when suffering from chronic stress?",
+      "choices": [
+        "Ignore the particular stressors and increase your physical exercises.",
+        "Attempt to reduce the stress by using a concept which approaches the entire body and improves wellness.",
+        "Always consult a psycho-therapist before the next flight.",
+        "Use moderate administration of tranquillizers before flight."
+      ],
+      "answer": "Attempt to reduce the stress by using a concept which approaches the entire body and improves wellness."
+    },
+    {
+      "question": "Which of the following are either cumulative or tend to escalate? 1.⁠ ⁠Stress factors (stressors) 2.⁠ ⁠Errors 3.⁠ ⁠The effects of carbon monoxide poisoning 4.⁠ ⁠Human conflict 5.⁠ ⁠Colour blindness. Which combination of statements is correct?",
+      "choices": [
+        "2, 3, 5.",
+        "1, 2.",
+        "1, 2, 3, 4.",
+        "1, 2, 3."
+      ],
+      "answer": "1, 2, 3, 4."
+    },
+    {
+      "question": "Refer to the TEM model and give an example of a latent threat.",
+      "choices": [
+        "Congested airport.",
+        "Shortened turn-around schedules.",
+        "Mountains.",
+        "Thunderstorm."
+      ],
+      "answer": "Shortened turn-around schedules."
+    },
+    {
+      "question": "Concerning flying and blood alcohol content, which of the following statements is correct?",
+      "choices": [
+        "Flying with up to 0.05% blood alcohol.",
+        "Flying with up to 0.08% blood alcohol is safe, since driving is safe up to this limit.",
+        "No flying above 0.02% blood alcohol.",
+        "Flying with up to 0.15% blood alcohol."
+      ],
+      "answer": "No flying above 0.02% blood alcohol."
+    },
+    {
+      "question": "The crew of an executive jet belonging to a very well-known and respected charter company were acknowlegdged by all to be the most experienced crew in the entire company. Both the captain and first officer had an unblemished record of operations, stretching back many years and passed every line and simulator check to the highest standard. Over time they had become so familiar with this particular aircraft type that they could do all the pre-flight checks without looking at a checklist or using the challenge and response technique. Unfortunately, on this occasion, they overlooked an important item and attempted to take off with the control locks engaged. They aborted the take-off but slightly overran the runway. None of the passengers or crew were injured but the aircraft's landing gear was severely damaged. After listening to the CVR and ascertaining the facts, the company dismissed both crew from their employment. Which of the following statements most accurately describes the safety culture in this organisation?",
+      "choices": [
+        "The operator appropriately applied the principle of just culture, fairly punishing this negligent behaviour. This sent a firm message to all its crew that such violations would never be tolerated by the organisation, regardless of the seniority and past record of those involved.",
+        "This is a poor example of a just culture. Throughout their very long careers the captain and first officer had never had an accident. They had learned their lesson from this one and knew that in future they must follow the checklist procedures. Punishment in this case was inappropriate.Instead, the chief pilot should have publicised the incident so that all crew would be sure not to make the same mistake in the future",
+        "This is a good example of a just culture because the company was emphasising that no error would be tolerated, regardless of the experience of the crew.",
+        "This is a good example of an 'open culture' because the dismissal of the crew was made known to all to ensure that no other crew would commit the same error in the future"
+      ],
+      "answer": "This is a poor example of a just culture. Throughout their very long careers the captain and first officer had never had an accident. They had learned their lesson from this one and knew that in future they must follow the checklist procedures. Punishment in this case was inappropriate.Instead, the chief pilot should have publicised the incident so that all crew would be sure not to make the same mistake in the future"
+    },
+    {
+      "question": "Which of the following physical stimuli may cause stress reactions? 1. Noise. 2. Interpersonal conflict. 3. Temperature. 4. Administrative problem. 5. Hunger, The combination of correct statements is:",
+      "choices": [
+        "2, 3, 5.",
+        "1, 3, 5.",
+        "1, 3, 4.",
+        "3, 4, 5."
+      ],
+      "answer": "1, 3, 5."
+    },
+    {
+      "question": "Of the following statements concerning the effects of circadian rhythms on performance, we know that:",
+      "choices": [
+        "Sensorimotor and intellectual performance are better in the evening and very sensitive to the duration of the waking period.",
+        "Sensorimotor performance is better in the evening whereas intellectual performance is better in the morning.",
+        "Sensorimotor performance is better in the morning whereas intellectual performance is better in the evening.",
+        "Sensorimotor and intellectual performance are better in the morning and are sensitive to the duration of the sleep state."
+      ],
+      "answer": "Sensorimotor performance is better in the evening whereas intellectual performance is better in the morning."
+    },
+    {
+      "question": "A study by NASA has examined the relationships between incidents linked with ground to crew communication. Which of the following factors is the main reason for disturbances in the correct reception of a message?",
+      "choices": [
+        "Mother tongue differing from working language.",
+        "Radio failure.",
+        "Listening errors.",
+        "Errors in understanding clearance values."
+      ],
+      "answer": "Listening errors."
+    },
+    {
+      "question": "When is your body temperature at its lowest?",
+      "choices": [
+        "In the afternoon.",
+        "Around 9 AM.",
+        "Early in the morning.",
+        "Late in the evening."
+      ],
+      "answer": "Early in the morning."
+    },
+    {
+      "question": "The errors resulting from an irrational indexing system in an Operations Manual are related to an interface mismatch between:",
+      "choices": [
+        "Liveware - liveware.",
+        "Liveware - hardware.",
+        "Liveware - environment.",
+        "Liveware - software."
+      ],
+      "answer": "Liveware - software."
+    },
+    {
+      "question": "Whilst pushing back from a dark, poorly lit stand at night the (inexperienced) first officer was responsible to confirming adequate starboard wing-tip clearance from a nearby engineer's cabin. The wing-tip walker made no indication that the wing-tip clearance was inadequate. Unfortunately, the aircraft's wing-tip came into contact with the roof of the cabin, sustaining minor damage. The captain abandoned the flight and reported the incident to the chief pilot, emphasising that it had been the first officer's responsibility to ensure adequate tip clearance not his and that he should be punished for his error. The chief pilot interviewed the first officer and decided to take no disciplinary action against him. Instead, without publicly referring to the captain's assessment he made it a company SOP no longer to use this stand. He also published a note to all crew describing what had happened and explaining that, regardless of any wing walker's signals, the crew is responsible for obstacle clearance. If there's any doubt they should stop and clarify the situation. Which of the following statements most accurately describes the safety culture in this organisation?",
+      "choices": [
+        "This is an example of a closed culture because the chief pilot did not publicise the fact that he disagreed with the captain’s assessment. Instead, he secretly overrode the captain’s recommendation.",
+        "This is an example of a just culture in which trust is built. This was an unintentional error made by an inexperienced first officer and so should not be punished. Instead, all crew would benefit from the learning experience.",
+        "This is not an example of a just culture because the chief pilot failed to back up the captain thus undermining the trust between the two and demeaning the captain’s authority.",
+        "This is a good example of a reporting culture because the captain felt able to report the first officer’s violation without fear of reprisals on himself."
+      ],
+      "answer": "This is an example of a just culture in which trust is built. This was an unintentional error made by an inexperienced first officer and so should not be punished. Instead, all crew would benefit from the learning experience."
+    },
+    {
+      "question": "Carbon dioxide:",
+      "choices": [
+        "May reach toxic levels in the flight deck due to incomplete fuel combustion.",
+        "Is approximately 13% of ambient air at flight level 180.",
+        "Is increased in the blood and the brain during hyperventilation.",
+        "Is a normal product of internal respiration."
+      ],
+      "answer": "Is a normal product of internal respiration."
+    },
+    {
+      "question": "Blood pressure is normally measured in:",
+      "choices": [
+        "inHg.",
+        "Hectopascals.",
+        "mmHg.",
+        "Millibars."
+      ],
+      "answer": "mmHg."
+    },
+    {
+      "question": "Which of the following examples is not a procedural error (TEM model)?",
+      "choices": [
+        "Checklists: wrong challenge and response; items missed, checklist performed late or at the wrong time.",
+        "Documentation: wrong weight and balance, fuel information, ATIS, or clearance information recorded, misinterpreted items on paperwork; incorrect logbook entries or incorrect application of MEL procedures.",
+        "Briefings: omitted briefings; items missed.",
+        "Ground navigation: attempting to turn down wrong taxiway or runway, taxi too fast, failure to hold short or missed taxiway or runway."
+     ],
+      "answer": "Ground navigation: attempting to turn down wrong taxiway or runway, taxi too fast, failure to hold short or missed taxiway or runway."
+    },
+    {
+      "question": "Which of the following mechanisms regulate body temperature when subject to extreme high environmental temperatures? 1.⁠ ⁠Shivering 2.⁠ ⁠Vasoconstriction of peripheral blood vessels 3.⁠ ⁠Sweating 4.⁠ ⁠Vasodilatation of peripheral blood vessels.",
+      "choices": [
+        "1, 3, 4.",
+        "2, 3.",
+        "3, 4.",
+        "2, 4."
+      ],
+      "answer": "3, 4."
+    },
+    {
+      "question": "Stress may be defined as a:",
+      "choices": [
+        "Psychological phenomenon that only affects fragile personalities.",
+        "Poorly controlled emotion that leads to a reduction in capabilities.",
+        "Human reaction that one must manage to eliminate.",
+        "Normal phenomenon that enables an individual to adapt to encountered situations."
+      ],
+      "answer": "Normal phenomenon that enables an individual to adapt to encountered situations."
+    },
+    {
+      "question": "Which option correctly identifies, from the items listed below, the effects of arousal on performance? 1.It always reduces performance 2. Optimum performance is obtained with optimum arousal 3. Excessive levels of arousal weaken performance 4. Insufficient levels of arousal weaken performance",
+      "choices": [
+        "1, 3, 4.",
+        "1, 2, 4.",
+        "2, 3, 4.",
+        "2, 4."
+      ],
+      "answer": "2, 3, 4."
+    },
+    {
+      "question": "Internal respiration is:",
+      "choices": [
+        "The exchange of carbon dioxide and oxygen in the lung.",
+        "The process of inflating the lungs during mouth-to-mouth resuscitation.",
+        "A metabolic process inside the cells whereby oxygen is used and carbon dioxide produced.",
+        "The term used for respiration inside the pressure cabin."
+      ],
+      "answer": "A metabolic process inside the cells whereby oxygen is used and carbon dioxide produced."
+    },
+    {
+      "question": "Select the correct statement about assertive behaviour.",
+      "choices": [
+        "Assertive behaviour uses action instead of words.",
+        "Assertive behaviour helps you get what you want and need.",
+        "Assertive behaviour is often weak, hesitant and soft.",
+        "Assertive behaviour denies the rights of others."
+      ],
+      "answer": "Assertive behaviour helps you get what you want and need."
+    },
+    {
+      "question": "Complete the following statement. Safety culture is ___ national culture.",
+      "choices": [
+        "Not related to",
+        "A subpart of",
+        "Independent of",
+        "Not a subpart of"
+      ],
+      "answer": "A subpart of"
+    },
+    {
+      "question": "Which of the following statements correctly describes the amount of recovery sleep required to repay an accumulated sleep debt?",
+      "choices": [
+        "Is at least twice the number of hours of sleep missed.",
+        "Equals the number of hours of sleep missed.",
+        "Is slightly greater than the number of hours of sleep missed.",
+        "Is roughly half the number of hours of sleep missed."
+      ],
+      "answer": "Is roughly half the number of hours of sleep missed."
+    },
+    {
+      "question": "Oxygen transport to the tissues:",
+      "choices": [
+        "Will be maintained even during severe hypoxia.",
+        "Is unaffected by carbon monoxide.",
+        "Depends on haemoglobin level and blood flow.",
+        "Is independent of haemoglobin levels as oxygen is mainly dissolved in the plasma."
+      ],
+      "answer": "Depends on haemoglobin level and blood flow."
+    },
+    {
+      "question": "One of the substances present in the smoke of cigarettes can make it significantly more difficult for the red blood cells to transport oxygen and as a consequence contributes to hypoxia. To which substance are we referring?",
+      "choices": [
+        "Tar.",
+        "Carbon monoxide.",
+        "Carbon dioxide.",
+        "Nicotine."
+      ],
+      "answer": "Carbon monoxide."
+    }
+  ]
+}
